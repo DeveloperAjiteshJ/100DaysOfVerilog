@@ -13,7 +13,7 @@ This project implements all fundamental logic gates using Verilog and simulates 
 - NOT (only for `a`)
 - XOR
 - XNOR
-
+ 
 ### Sample Output
 a b | AND NAND OR NOR NOT_a XOR XNOR
 
